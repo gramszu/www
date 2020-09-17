@@ -9,13 +9,7 @@
 		<loc>http://megaelekronik.pl/cts.html</loc>
 	</url>
 	<url>
-		<loc>http://megaelekronik.pl/ipx.html</loc>
-	</url>
-	<url>
 		<loc>http://megaelekronik.pl/zasilanie.html</loc>
-	</url>
-	<url>
-		<loc>http://megaelekronik.pl/anten.html</loc>
 	</url>
 	<url>
 		<loc>http://megaelekronik.pl/ip1usb.html</loc>
@@ -27,12 +21,33 @@
 		<loc>http://megaelekronik.pl/archiwum.html</loc>
 	</url>
 	<url>
-		<loc>http://megaelekronik.pl/page12.html</loc>
-	</url>
-	<url>
 		<loc>http://megaelekronik.pl/ok.html</loc>
 	</url>
 	<url>
-		<loc>http://megaelekronik.pl/koszyk.html</loc>
+		<loc>http://megaelekronik.pl/anteny.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/test_koszyk.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/faq.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/promocja.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/k.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/simsterof.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/gsk.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/hermetyczne.html</loc>
+	</url>
+	<url>
+		<loc>http://megaelekronik.pl/hermetycz.html</loc>
 	</url>
 </urlset>
